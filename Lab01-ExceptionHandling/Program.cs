@@ -8,5 +8,10 @@ namespace Lab01_ExceptionHandling
         {
             Console.WriteLine("Hello World!");
         }
+
+        static void MyMethod()
+        {
+            // this is my method
+        }
     }
 }
