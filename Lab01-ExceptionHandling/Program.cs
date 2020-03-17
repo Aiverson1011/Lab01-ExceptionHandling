@@ -6,6 +6,7 @@ namespace Lab01_ExceptionHandling
     {
         static void Main(string[] args)
         {
+            //this is a comment for purposes
             Console.WriteLine("Hello World!");
         }
 
