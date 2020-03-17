@@ -14,5 +14,10 @@ namespace Lab01_ExceptionHandling
         {
             // this is my method
         }
+
+        static void ThirdMethod()
+        {
+
+        }
     }
 }
